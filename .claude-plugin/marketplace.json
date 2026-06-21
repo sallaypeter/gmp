@@ -4,7 +4,6 @@
         "name": "Peter Sallay",
         "email": "peter.sallay@graphit.hu"
     },
-    "version": "1.0.1",
     "plugins": [
         {
             "name": "gr-info",
