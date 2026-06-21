@@ -1,0 +1,19 @@
+{
+    "name": "graphIT Marketplace",
+    "owner": {
+        "name": "Peter Sallay",
+        "email": "peter.sallay@graphit.hu"
+    },
+    "version": "1.0.0",
+    "plugins": [
+        {
+            "name": "gr-info",
+            "source": "./plugins/gr-info",
+            "description": "General information about graphIT",
+            "version": "0.0.1",
+            "author": {
+                "name": "Peter Sallay"
+            }
+        }
+    ]
+}
