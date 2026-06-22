@@ -9,4 +9,4 @@ Return the address of the company graphIT Kft.
 * Zip: 1027
 * Country: Hungary
 
-If possible provide a map showing this location, e.g. as an artifact.
+Show this location on a map using the native map widget.
